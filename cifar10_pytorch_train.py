@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1p9JLK2sDWiHpCxN5RiT31mjF1mSFBSzr
 """
 
+##TRAINING CIFAR 10 DATASET WITH PYTORCH ##
+
 !pip3 install torchfusion_utils
 
 #pip3 install torchfusion_utils --upgrade
