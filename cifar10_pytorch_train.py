@@ -8,7 +8,7 @@ Original file is located at
 """
 
 ##TRAINING CIFAR 10 DATASET WITH PYTORCH ##
-
+##SAMPLE CODE TRAINING WITH PYTORCH##
 !pip3 install torchfusion_utils
 
 #pip3 install torchfusion_utils --upgrade
